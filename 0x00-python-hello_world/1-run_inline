@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PYCODE > TEMP.py && python3 TEMP.py && rm -r TEMP.py
